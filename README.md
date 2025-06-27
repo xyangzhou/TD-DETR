@@ -1,4 +1,4 @@
-# TD-DETR [ICCV 25](The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning)
+# TD-DETR [ICCV 25] The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning
 
 <a href='https://arxiv.org/abs/2501.07305'><img src='https://img.shields.io/badge/ArXiv-2501.07305-red'></a>
 
