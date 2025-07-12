@@ -8,7 +8,7 @@
 
 $*$ Equal Contribution
 
-This repo contains the official code of our ECCV2024 paper: [Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning]
+This repo contains the official code of our ICCV2025 paper: [The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning]
 
 
 ![1746780221714](figures/overview.png)
