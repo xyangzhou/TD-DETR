@@ -25,7 +25,7 @@ This repo contains the official code of our ICCV2025 paper: [The Devil is in the
 
 We use the features from [Moment-DETR](https://github.com/jayleicn/moment_detr) and [CG-DETR](https://github.com/wjun0830/CGDETR).
 
-> <b> [QVHighlights](https://drive.google.com/file/d/1LXsZZBsv6Xbg_MmNQOezw0QYKccjcOkP/view?usp=sharing) </b> md5: e07e50947226e01b1bd74122d6695c3c <br> <b> [Charades-STA](https://drive.google.com/file/d/1B2721QC799qbbGLGSa7DkXJjdRefvZf-/view?usp=sharing) </b> md5: 262823450cd253c84f4afeb3f5e43170 <br> <b> [TACoS](https://drive.google.com/file/d/1_IaKMjKw3nNaSsvN28ZucfM4K-ivZTHw/view?usp=sharing) </b> md5: 8aa001f389bb57e5db0ab58a34dcfe9f <br>
+> <b> [QVHighlights](https://drive.google.com/file/d/1Hiln02F1NEpoW8-iPZurRyi-47-W2_B9/view?usp=sharing) </b> md5: e07e50947226e01b1bd74122d6695c3c <br> <b> [Charades-STA](https://drive.google.com/file/d/1B2721QC799qbbGLGSa7DkXJjdRefvZf-/view?usp=sharing) </b> md5: 262823450cd253c84f4afeb3f5e43170 <br> <b> [TACoS](https://drive.google.com/file/d/1_IaKMjKw3nNaSsvN28ZucfM4K-ivZTHw/view?usp=sharing) </b> md5: 8aa001f389bb57e5db0ab58a34dcfe9f <br>
 
 After downloading, you can change 'feat_root' in shell files under `td_detr/scripts/*/`.
 
