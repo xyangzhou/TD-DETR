@@ -1,0 +1,2 @@
+# Similarity Matrix
+In `Section 3.1: Video Synthesizer`, we develop a `Similarity based Spurious Pair Selection`. To reduce the repeated calculations, we precalculated the similarity matrix and upload to [google drive](https://drive.google.com/file/d/1KBNccxC8Z7Pv46-n6oyUL5vfnOMLHTkL/view?usp=sharing). We suggest either download and unzip them into here or modify the `--sim_matrix_path` option in shell files under `td_detr/scripts/*/`.
