@@ -35,6 +35,7 @@ importlib-metadata==6.7.0
 importlib-resources==5.12.0
 ipykernel==6.16.2
 ipython==7.34.0
+setuptools==59.5.0
 ipython-genutils==0.2.0
 ipywidgets==8.1.6
 isoduration==20.11.0
